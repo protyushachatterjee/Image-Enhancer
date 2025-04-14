@@ -1,0 +1,4 @@
+1. In home page I am showing image upload and image preview components
+2. In image upload I showcase the image which user can upload
+3. In preview component I showcase the enchanced image 
+4. In utils i wrote the logic of fetching data from api.

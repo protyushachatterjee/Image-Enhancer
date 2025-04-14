@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Gilroy-ExtraBold';
+  src: url('../Font/Gilroy-ExtraBold.otf') format('opentype'),
+
+}
+
+@font-face {
+  font-family: 'Gilroy-light';
+  src: url('../Font/Gilroy-Light.otf') format('opentype'),
+
+}
+
+*::selection{
+  background: #7a91c0;
+  color: #000;
+}
